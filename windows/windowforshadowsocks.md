@@ -22,7 +22,7 @@ description: Windows版Shadowsocks使用教程
 
 下载解压后 如图 鼠标右键点击  以管理员模式运行
 
-![](<../.gitbook/assets/image (55) (1).png>)
+![](<../.gitbook/assets/image (55) (1) (1).png>)
 
 
 
@@ -78,7 +78,7 @@ description: Windows版Shadowsocks使用教程
 
 **2. 选择在线配置**
 
-****![](<../.gitbook/assets/image (47).png>)****
+****![](<../.gitbook/assets/image (47) (1).png>)****
 
 **3.更新**
 
