@@ -43,9 +43,13 @@ ClashX会安装Clashx Helper程序, 请允许并安装!
 
 ![](<../.gitbook/assets/image (50).png>)
 
-2-1: 关闭设置为系统代理
+2-1: 关闭设置为系统代理, 出站模式选择规则 点击 配置
 
-![](../.gitbook/assets/WeChatda989a6932bd53e68eef126eecddc1ad副本.png)
+![](<../.gitbook/assets/image (68).png>)
+
+
+
+
 
 添加订阅地址
 

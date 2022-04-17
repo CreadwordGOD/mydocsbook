@@ -74,7 +74,7 @@ description: Windows版Shadowsocks使用教程
 
 **1.选择禁用(也就是关闭软件连接)**
 
-****![](<../.gitbook/assets/image (68).png>)
+****![](<../.gitbook/assets/image (68) (1).png>)
 
 **2. 选择在线配置**
 
