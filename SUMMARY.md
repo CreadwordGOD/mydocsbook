@@ -12,7 +12,7 @@
 ## Windows系统内使用教程 <a href="#windows" id="windows"></a>
 
 * [👍 Clash for Windows](windows/clash\_for\_windows.md)
-* [🥳 一键客户端](windows/flyintforwin.md)
+* [一键客户端](windows/flyintforwin.md)
 * [Shadowsocks使用教程](windows/windowforshadowsocks.md)
 
 ## MacOS系统内使用教程 <a href="#macos" id="macos"></a>
