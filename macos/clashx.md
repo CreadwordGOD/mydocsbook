@@ -43,7 +43,7 @@ ClashX会安装Clashx Helper程序, 请允许并安装!
 
 ![](<../.gitbook/assets/image (50).png>)
 
-1.设置为系统代理     2.打开托管配置 - >管理
+2-1: 关闭设置为系统代理
 
 ![](../.gitbook/assets/WeChatda989a6932bd53e68eef126eecddc1ad副本.png)
 
