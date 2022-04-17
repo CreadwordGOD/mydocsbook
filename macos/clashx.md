@@ -1,5 +1,6 @@
 ---
 description: ClashX
+layout: editorial
 ---
 
 # 👍 ClashX
