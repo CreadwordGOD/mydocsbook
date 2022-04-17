@@ -22,7 +22,7 @@ description: Windows版Shadowsocks使用教程
 
 下载解压后 如图 鼠标右键点击  以管理员模式运行
 
-![](<../.gitbook/assets/image (55).png>)
+![](<../.gitbook/assets/image (55) (1).png>)
 
 
 
@@ -44,13 +44,13 @@ description: Windows版Shadowsocks使用教程
 
 登入[Flyint.cc](https://www.flyint.cc)   点击 **一键订阅 -> 复制订阅地址**
 
-****![](<../.gitbook/assets/image (53).png>)****
+****![](<../.gitbook/assets/image (53) (1).png>)****
 
 ****
 
 按照图标数字顺序操作
 
-![](<../.gitbook/assets/image (67).png>)
+![](<../.gitbook/assets/image (67) (1).png>)
 
 ****
 
@@ -82,7 +82,7 @@ description: Windows版Shadowsocks使用教程
 
 **3.更新**
 
-****![](<../.gitbook/assets/image (49).png>)****
+****![](<../.gitbook/assets/image (49) (1).png>)****
 
 **更新完毕之后 将系统代理设置为PAC模式就可以继续使用了**
 

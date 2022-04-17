@@ -2,43 +2,40 @@
 description: ClashX
 ---
 
-# ClashX
+# 👍 ClashX
 
-## 下载安装
+## 1.下载安装
 
-****[**点我下载** ](https://downloads.goglon.com/downloads/ClashX.dmg)****
+1. ****[**点我下载** ](https://downloads.goglon.com/downloads/ClashX.dmg)****
+2. &#x20;**安装**
 
-下载完成后安装运行
+如提示 "未知开发者来源APP" 等类似提示, 请打开 "允许任何来源" 。方可进行安装
+
+如你的MAC  "安全性与隐私" -"通用" 内没有 "任何来源" 选项，[请看这个开启的教程](https://jingyan.baidu.com/article/6079ad0eb99aa228ff86db0a.html)。
+
+![](<../.gitbook/assets/image (55).png>)
+
+ClashX会安装Clashx Helper程序, 请允许并安装!
 
 
 
-请耐心等待。
+**3. 打开Clashx**
 
-## 安装
+注意:  Clashx打开后要从状态栏进行界面操作. 如未显示(被遮挡住了), 请关闭退出其它应用.
 
-部分MAC会提示『未知开发者来源APP』等类似提示，导致无法安装。
+![](<../.gitbook/assets/image (53).png>)
 
-请打开『允许任何来源』。方可进行安装
+## 2.导入订阅链接
 
-如你的MAC 『安全性与隐私』-『通用』内没有 『任何来源』选项，[请看这个开启的教程](https://jingyan.baidu.com/article/6079ad0eb99aa228ff86db0a.html)。
+### **(1.一键导入**
 
-![](<../.gitbook/assets/image (7).png>)
+在仪表盘->订阅地址->导入到clashx 即可自动拉起程序自动导入
 
-安装clashx
+![](<../.gitbook/assets/image (52).png>)
 
-首次使用会提醒你应用来自未知开发者，选择允许打开此应用。
+如果一键导入不好使, 请使用下方手动导入👇🏻
 
-ClashX 首次运行会提示是否安装帮助程序。此帮助程序用于设置系统代理，否则每次你通过 ClashX 变更系统状态（打开或关闭）时都需要输入密码，点击 **「Install」** ，之后mac OS会提示输入用户密码。
-
-## 添加订阅
-
-### **一键导入**
-
-**登录网站 -> 仪表盘 -> 一键订阅+ -> 导入到ClashX**
-
-飞数支持一键自动导入ClashX, 如未自动唤醒ClashX并自动导入，请手动导入。
-
-### **手动导入**
+### **(2.手动导入**
 
 **登录网站 -> 仪表盘  -> 一键订阅+ -> 复制订阅地址**
 

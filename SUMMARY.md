@@ -17,7 +17,7 @@
 
 ## MacOS系统内使用教程 <a href="#macos" id="macos"></a>
 
-* [ClashX](macos/clashx.md)
+* [👍 ClashX](macos/clashx.md)
 * [V2rayU·已不支持](macos/v2rayu.md)
 
 ## Android系统内使用教程 <a href="#android" id="android"></a>

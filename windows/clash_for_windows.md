@@ -68,7 +68,7 @@ windows7以上版本可能会有防火墙提示, 请**勾选所有类型并允�
 
 ![](<../.gitbook/assets/image (65).png>)
 
-![](<../.gitbook/assets/image (52).png>)
+![](<../.gitbook/assets/image (52) (1).png>)
 
 如上图,&#x20;
 
